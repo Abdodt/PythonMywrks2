@@ -1,0 +1,4 @@
+
+def outfun():
+    msg = "HY"
+    
